@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dod-article-cms'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_400E445AE58C4E9A9967F90AC2E1EE2F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F9700795A8942468CBF306903C4A03E }}
